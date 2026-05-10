@@ -32,9 +32,9 @@ The current agricultural landscape faces several systemic challenges:
 ## The Demand Model
 Agri Vision utilizes a specific formula to calculate market demand, allowing for precise analysis:
 
-$$
-\text{Demand \%} = \frac{\text{Total Consumption} - \text{Total Production by all Farmers}}{\text{Total Consumption}} \times 100\%
-$$
+
+$$ \text{Demand \%} = \frac{\text{Total Consumption} - \text{Total Production by all Farmers}}{\text{Total Consumption}} \times 100\% $$
+
 ---
 
 ## Technical Stack
